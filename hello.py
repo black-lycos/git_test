@@ -1,3 +1,4 @@
 #!python
 
-print ("hello.py")
+val = input("Plz input the value : ")
+print ("hello.py " + val)
